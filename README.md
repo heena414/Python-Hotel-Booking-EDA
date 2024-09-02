@@ -103,30 +103,60 @@ Before conducting the analysis, the data underwent several cleaning and preproce
 - **Key Observation**: The bar graph shows a significant cancellation rate, with 37% of reservations being canceled. This poses a considerable challenge to the hotel’s revenue generation.
 - **Business Implication**: The high cancellation rate directly impacts earnings, emphasizing the need for strategies to reduce cancellations, such as flexible pricing, better customer engagement, or cancellation policies.
 
+<br /> 
+<div align="center" style="margin-bottom: 20px;">
+    <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+</div>
+<br /> 
+
 ### Insight 3: City Hotels vs. Resort Hotels Bookings
 
 - **Key Observation**: City hotels have a higher booking rate compared to resort hotels, likely due to the higher costs associated with resort stays.
 - **Business Implication**: Resort hotels may need to re-evaluate their pricing structures or offer special promotions to increase their competitiveness against city hotels.
+
+<br /> 
+<div align="center" style="margin-bottom: 20px;">
+    <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+</div>
+<br /> 
 
 ### Insight 4: Average Daily Rate (ADR) Trends
 
 - **Key Observation**: The line graph shows that ADR for city hotels is generally lower than resort hotels, but this gap widens on weekends and holidays, indicating price surges in resort hotels during these periods.
 - **Business Implication**: Resort hotels might explore dynamic pricing models or off-peak discounts to maintain a steady flow of bookings throughout the week.
 
+<br /> 
+<div align="center" style="margin-bottom: 20px;">
+    <img src="/assets/img4.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+</div>
+<br /> 
+
 ### Insight 5: Monthly Reservation Patterns
 
 - **Key Observation**: The grouped bar graph highlights that August has the highest number of both confirmed and canceled reservations, while January sees the most cancellations.
 - **Business Implication**: Hotels could focus marketing efforts and special promotions in August to maximize confirmed bookings, while addressing the factors leading to high cancellations in January through targeted campaigns.
 
+<br /> 
+<div align="center" style="margin-bottom: 20px;">
+    <img src="/assets/img5.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+</div>
+<br /> 
+
 ### Insight 6: Price Sensitivity and Cancellations
 
-- **Key Observation**: The bar graph reveals that cancellations are most frequent when prices are highest and least common when prices are lowest.
+- **Key Observation**: The analysis reveals that cancellations are most frequent when prices are highest and least common when prices are lowest.
 - **Business Implication**: This reinforces the need for pricing strategies that balance profitability with affordability, potentially reducing cancellations during peak pricing periods.
 
 ### Insight 7: Weekday vs. Weekend Bookings
 
 - **Key Observation**: The violin chart shows lower customer rates during certain weeks.
 - **Business Implication**: Hotels could implement more advertising and offer discounts during these periods to attract more customers and optimize occupancy.
+
+<br /> 
+<div align="center" style="margin-bottom: 20px;">
+    <img src="/assets/img7.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+</div>
+<br /> 
 
 ### Insight 8: Performance of Booking Agents
 
