@@ -1,7 +1,7 @@
 # Hotel Booking Analysis
 <br /> 
 <div align="center" style="margin-bottom: 20px;">
-    <img src="/assets/hotel.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+    <img src="/assets/hotel.png" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 <br /> 
 
